@@ -1,5 +1,7 @@
 # Codex GRC Agent Demo
 
+> **Project moved.** codex-grc-agent-demo has been integrated into [Open Control Tools](https://github.com/ethanolivertroy/open-ctrl-tools).
+
 Python proof-of-concept for a bounded GRC assessment agent built with the [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) and the experimental `codex_tool`.
 
 The demo keeps the deterministic parts of compliance in code and data:
